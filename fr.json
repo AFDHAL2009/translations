@@ -1,0 +1,217 @@
+{
+  "continentsCode": {
+    "AF": "Afrique",
+    "AS": "Asie",
+    "EU": "Europe",
+    "NA": "Amérique du Nord",
+    "OC": "Océanie",
+    "SA": "Amérique du Sud",
+    "AN": "Antarctique"
+  },
+  "countriesCode": {
+    "US": "États-Unis",
+    "FR": "France",
+    "DE": "Allemagne",
+    "ES": "Espagne",
+    "IT": "Italie",
+    "GB": "Royaume-Uni",
+    "HR": "Croatie",
+    "CA": "Canada",
+    "AU": "Australie",
+    "CN": "Chine",
+    "JP": "Japon",
+    "IN": "Inde",
+    "BR": "Brésil",
+    "RU": "Russie",
+    "MX": "Mexique",
+    "ZA": "Afrique du Sud",
+    "SA": "Arabie Saoudite",
+    "EG": "Égypte",
+    "NG": "Nigéria",
+    "KE": "Kenya",
+    "MA": "Maroc",
+    "TN": "Tunisie",
+    "MK": "Macédoine du Nord",
+    "AR": "Argentine",
+    "TR": "Turquie",
+    "ID": "Indonésie",
+    "KR": "Corée du Sud",
+    "NL": "Pays-Bas",
+    "SE": "Suède",
+    "CH": "Suisse",
+    "BE": "Belgique",
+    "AT": "Autriche",
+    "PL": "Pologne",
+    "NO": "Norvège",
+    "FI": "Finlande",
+    "DK": "Danemark",
+    "GR": "Grèce",
+    "PT": "Portugal",
+    "HU": "Hongrie",
+    "CZ": "République tchèque",
+    "RO": "Roumanie",
+    "AE": "Émirats arabes unis",
+    "TH": "Thaïlande",
+    "VN": "Viêt Nam",
+    "MY": "Malaisie",
+    "SG": "Singapour",
+    "PH": "Philippines",
+    "PK": "Pakistan",
+    "DEFAULT": "Pays inconnu"
+  },
+
+  "listCountries": {
+    "United States": "États-Unis",
+    "France": "France",
+    "Germany": "Allemagne",
+    "Spain": "Espagne",
+    "Italy": "Italie",
+    "United Kingdom": "Royaume-Uni",
+    "Croatia": "Croatie",
+    "Canada": "Canada",
+    "Australia": "Australie",
+    "China": "Chine",
+    "Japan": "Japon",
+    "India": "Inde",
+    "Brazil": "Brésil",
+    "Russia": "Russie",
+    "Mexico": "Mexique",
+    "South Africa": "Afrique du Sud",
+    "Saudi Arabia": "Arabie saoudite",
+    "Egypt": "Égypte",
+    "Nigeria": "Nigéria",
+    "Kenya": "Kenya",
+    "Morocco": "Maroc",
+    "Tunisia": "Tunisie",
+    "North Macedonia": "Macédoine du Nord",
+    "Argentina": "Argentine",
+    "Turkey": "Turquie",
+    "Indonesia": "Indonésie",
+    "South Korea": "Corée du Sud",
+    "Netherlands": "Pays-Bas",
+    "Sweden": "Suède",
+    "Switzerland": "Suisse",
+    "Belgium": "Belgique",
+    "Austria": "Autriche",
+    "Poland": "Pologne",
+    "Norway": "Norvège",
+    "Finland": "Finlande",
+    "Denmark": "Danemark",
+    "Greece": "Grèce",
+    "Portugal": "Portugal",
+    "Hungary": "Hongrie",
+    "Czech Republic": "République tchèque",
+    "Romania": "Roumanie",
+    "United Arab Emirates": "Émirats arabes unis",
+    "Thailand": "Thaïlande",
+    "Vietnam": "Viêt Nam",
+    "Malaysia": "Malaisie",
+    "Singapore": "Singapour",
+    "Philippines": "Philippines",
+    "Pakistan": "Pakistan"
+  },
+
+  "regions": {
+    "MA": {
+      "Agadir": "Agadir",
+      "Marrakech": "Marrakech",
+      "Salé": "Salé"
+    },
+    "KE": {
+      "Nairobi": "Nairobi",
+      "Mombasa": "Mombasa",
+      "Kisumu": "Kisumu"
+    },
+    "NG": {
+      "Lagos": "Lagos",
+      "Abuja": "Abuja",
+      "Kano": "Kano"
+    },
+    "ZA": {
+      "Zululand District Municipality": "Municipalité de district de Zululand",
+      "Cape_town": "Le Cap",
+      "Johannesburg": "Johannesburg",
+      "Durban": "Durban"
+    },
+    "TN": {
+      "Tunis": "Tunis",
+      "Sfax": "Sfax",
+      "Djerba": "Djerba"
+    },
+    "IN": {
+      "Agra": "Agra",
+      "Bengaluru": "Bangalore",
+      "Cuddalore": "Cuddalore",
+      "Darbhanga": "Darbhanga",
+      "Firozpur": "Firozpur",
+      "Ghaziabad": "Ghaziabad",
+      "New Delhi": "New Delhi",
+      "Pune": "Pune",
+      "Saharanpur": "Saharanpur",
+      "Bihar": "Bihar",
+      "Goa": "Goa",
+      "Punjab": "Pendjab",
+      "Uttar Pradesh": "Uttar Pradesh",
+      "Delhi": "Delhi"
+    },
+    "SG": {
+      "Bugis": "Bugis",
+      "Singapore": "Singapour"
+    },
+    "TR": {
+      "Beşiktaş": "Beşiktaş",
+      "Şişli": "Şişli",
+      "Besiktas": "Beşiktaş",
+      "Sisli": "Beşiktaş",
+      "Ümraniye": "Ümraniye",
+      "Ankara": "Ankara",
+      "Antalya": "Antalya",
+      "Aydın": "Aydın",
+      "Bursa": "Bursa",
+      "İstanbul": "Istanbul",
+      "İzmir": "Izmir",
+      "Kayseri": "Kayseri",
+      "Nevşehir": "Nevşehir",
+      "Samsun": "Samsun",
+      "Adana": "Adana",
+      "Konya": "Konya",
+      "Gaziantep": "Gaziantep",
+      "Mersin": "Mersin",
+      "Muratpaşa": "Muratpaşa"
+    },
+    "AE": {
+      "Dubai": "Dubaï",
+      "Abu Dhabi": "Abu Dhabi",
+      "Sharjah": "Charjah",
+      "Ajman": "Ajman",
+      "Ras Al Khaimah": "Ras el-Khaïmah",
+      "Fujairah": "Fujaïrah",
+      "Umm Al-Quwain": "Oumm al Qaïwaïn",
+      "Al Ain": "Al Ain"
+    },
+    "HR": {
+      "Gospić": "Gospić",
+      "Pula": "Pula"
+    },
+    "GR": {
+      "Athens": "Athènes",
+      "Kipseli": "Kipséli",
+      "Kipséli": "Kipséli"
+    },
+    "MK": {
+      "Skopje": "Skopje"
+    },
+    "PT": {
+      "Castelo de Paiva": "Castelo de Paiva",
+      "Monção": "Monção",
+      "Santa Maria da Feira": "Santa Maria da Feira"
+    },
+    "JO": {
+      "Amman": "Amman"
+    },
+    "NL": {
+      "Rockanje": "Rockanje",
+      "South Holland": "Hollande-Méridionale"
+    }
+  }
+}
